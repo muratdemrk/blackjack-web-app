@@ -1,6 +1,6 @@
 :root {
   /* background-color: #35654d; */
-  background-image: url("/resources/background.png");
+  background-image: url("../resources/background.png");
   font-size: 62.5%;
   background-repeat: no-repeat;
   background-size: cover;
